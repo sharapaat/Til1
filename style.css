@@ -28,7 +28,7 @@ h3{font-size:18px;margin-bottom:6px}
 .letters i{position:absolute;bottom:-60px;font:800 var(--s) Unbounded,sans-serif;color:var(--b);opacity:.16;animation:fl var(--d) linear var(--w) infinite}
 @keyframes fl{to{transform:translateY(-760px) rotate(40deg);opacity:0}}
 .hero-in{position:relative;max-width:760px}
-.brand{font:800 clamp(44px,10vw,92px)/1 Unbounded,sans-serif;background:linear-gradient(120deg,var(--a),var(--b) 50%,var(--p));-webkit-background-clip:text;background-clip:text;color:transparent;display:flex;gap:14px;align-items:center;justify-content:center}
+.brand{font:800 clamp(28px,5vw,48px)/1.2 Unbounded,sans-serif;;background:linear-gradient(120deg,var(--a),var(--b) 50%,var(--p));-webkit-background-clip:text;background-clip:text;color:transparent;display:flex;gap:14px;align-items:center;justify-content:center}
 .brand svg{width:.9em;height:.9em;flex:none}
 .tag{font:800 clamp(20px,3.4vw,30px) Unbounded,'Noto Sans';margin:14px 0 6px}
 .sub{color:var(--mut);margin-bottom:20px}
